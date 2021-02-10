@@ -60,6 +60,8 @@
 
 * https://www.regexpal.com/ <p>Regex kodlarınızı test edebileceğiniz bir araç.</p>
 
+* https://www.shopier.com/ <p>Satış yapabileceğiniz bir platform.</p>
+
 
 
 
